@@ -2,8 +2,6 @@
 
 A beautiful, feature-rich web application built with React and TypeScript for managing and visualizing recurring subscription expenses. Track your subscriptions, analyze spending patterns, and take control of your recurring expenses with an intuitive, responsive interface.
 
-![Subscription Tracker](https://clever-hummingbird-60a492.netlify.app)
-
 ## ✨ Features
 
 ### Core Functionality
